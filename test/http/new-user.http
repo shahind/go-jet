@@ -1,0 +1,12 @@
+POST http://localhost:8005/users
+Content-Type: application/json
+
+{
+  "name": "Roberto",
+  "surname": "Ferro",
+  "username": "tester",
+  "password": "tester",
+  "repeat-password": "tester"
+}
+
+###
